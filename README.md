@@ -17,3 +17,4 @@ Feature of this website are:
 ![image alt](https://github.com/kampurnepd-dot/expense-spliter/blob/c71e9e1dd95c42c4f520bbab1f15c03712f35983/Screenshot%202026-01-28%20223945.png)
 3.when add expense :
 4.when final caculation is done :
+.
