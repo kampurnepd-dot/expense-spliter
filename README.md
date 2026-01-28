@@ -12,5 +12,8 @@ Feature of this website are:
 4.It will handle basic errors like if you are trying to add member which is already present it will not add it again.
 
 1.The main page of the website look like this:
-![image alt](https://github.com/kampurnepd-dot/expense-spliter/blob/c71e9e1dd95c42c4f520bbab1f15c03712f35983/Screenshot%202026-01-28%20223945.png)
 
+2.when members are added :
+![image alt](https://github.com/kampurnepd-dot/expense-spliter/blob/c71e9e1dd95c42c4f520bbab1f15c03712f35983/Screenshot%202026-01-28%20223945.png)
+3.when add expense :
+4.when final caculation is done :
