@@ -1,0 +1,220 @@
+body{
+    
+    background-size:cover;
+    text-align:center;
+    align-items:center;
+   
+   
+    flex-direction:column;
+    background-image: url("img2.png");
+
+
+}
+h1{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    color:aliceblue;
+}
+
+
+.bill{
+    display:flex;
+    justify-content: center;
+    position:relative;
+
+}
+h2{
+    color:white;
+}
+#divs{
+
+    display:flex;
+   justify-content: center;
+     min-height:300px;
+     height :auto;
+   
+
+}
+#alldiv{
+     text-align:center;
+    height:440px;
+    
+    width:500px;
+    border-radius:5px;
+    padding:7.5px;
+    margin:5px;
+    display:flex;
+    flex-direction: column;
+align-items: center;
+
+
+}
+#memberdiv{
+    height:100px;
+    width:200px;
+    background-color:rgb(212, 171, 25);
+    border:2px  solid ;
+    border-radius:5px;
+    padding:7.5px;
+
+   
+   
+    text-align:center;
+    justify-content:center;
+
+}
+#titlediv{
+    height:70px;
+    width:300px;
+      background-color:rgb(43, 141, 226);
+    border:2px black solid ;
+    border-radius:5px;
+    padding:7.5px;
+
+
+}
+
+.checkclass{
+    display:inline-block;
+}
+#amounttitle{
+     height:70px;
+    width:200px;
+      background-color:rgb(212, 171, 25);
+    border:2px black solid ;
+    border-radius:10px;
+    padding:7.5px;
+
+
+}
+#paidbydiv{
+     height:70px;
+    width:300px;
+      background-color:rgb(43, 141, 226);
+    border:2px black solid ;
+    border-radius:5px;
+    padding:7.5px;
+
+
+}
+label{
+    color:black;
+}
+h2{
+    background-color:mediumorchid;
+    border:1px black solid;
+    border-radius:5px;
+    padding:5px;
+}
+
+   
+#addexpense{
+   height:50px;
+    width:150px;
+    background-color: rgb(198, 151, 20);
+    color:aliceblue;
+    border-radius:100px;
+     position :absolute ;
+      right:10px;
+      top:20px;
+}
+
+
+
+#calculate{
+      height:50px;
+    width:150px;
+    background-color: rgb(198, 151, 20);;
+    color:aliceblue;
+    border-radius:100px;
+     position :absolute ;
+      right:10px;
+      top:80px;
+}
+
+
+#addmember{
+    background-color: blueviolet ;
+     border-radius:100px;
+}
+#billid{
+display:flex;
+
+min-height:50px;
+height:auto;
+
+align-items:center;
+
+flex-direction:column;
+
+
+
+}
+
+#divid{
+    text-align: left;
+    display:block;
+background-color:rgb(49, 178, 243);
+padding :5px;
+border:2px black solid;
+border-radius:10px;
+margin:5px;
+
+}
+
+#calid{
+display:flex;
+
+min-height:50px;
+height:auto;
+
+align-items:center;
+
+flex-direction:column;
+
+
+
+}
+
+#outputid{
+    text-align: left;
+    display:block;
+background-color:rgb(238, 177, 46);
+padding :5px;
+border:2px black solid;
+border-radius:10px;
+
+}
+#fairid{
+display:flex;
+
+min-height:50px;
+height:auto;
+
+align-items:center;
+
+flex-direction:column;
+
+
+
+}
+
+#squareid{
+    text-align: left;
+    display:block;
+background-color: aqua;
+padding :5px;
+border:2px black solid;
+border-radius:10px;
+
+}
+
+.checkclass{
+    background-color:rgb(243, 49, 114) ;
+    border:1px black solid ;
+    border-radius:5px ;
+    padding:5px;
+}
+
+
+
