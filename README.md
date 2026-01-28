@@ -1,5 +1,6 @@
 # expense-spliter
 this link for website by vercel:
+https://github.com/kampurnepd-dot/expense-spliter/tree/main/expence_splitter%20HTML
 
 when you with your friends or family members do multiple expense then it is very hard to decide how much each member owes or owed .
 To split your expenses this website will help you.
