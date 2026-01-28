@@ -14,7 +14,7 @@ Feature of this website are:
 1.The main page of the website look like this:
 
 2.when members are added :
-![image alt](https://github.com/kampurnepd-dot/expense-spliter/blob/c71e9e1dd95c42c4f520bbab1f15c03712f35983/Screenshot%202026-01-28%20223945.png)
+![image alt](https://github.com/kampurnepd-dot/expense-spliter/blob/b85df0b6d7a367b65b33c8ac8453bbf456b47291/Screenshot%202026-01-28%20225429.png)
 3.when add expense :
 4.when final caculation is done :
 .
