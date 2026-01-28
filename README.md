@@ -17,6 +17,7 @@ Feature of this website are:
 2.when members are added :
 ![image alt](https://github.com/kampurnepd-dot/expense-spliter/blob/034cb16d682086d737e1c1b9f58293d3847d2590/Screenshot%202026-01-28%20225927.png)
 3.when add expense :
+![image alt](https://github.com/kampurnepd-dot/expense-spliter/blob/d79f764aec5f56588d55e339cf3381153a99cdc3/Screenshot%202026-01-28%20230943.png)
 4.when final caculation is done :
 ![image alt](https://github.com/kampurnepd-dot/expense-spliter/blob/5619529155c4a863cb63053785df9c890d27b7c9/Screenshot%202026-01-28%20223824.png)
-.
+
